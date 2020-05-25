@@ -4,5 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ReverseProxy" Version="1.0.0-preview.1.20268.2" />
+  </ItemGroup>
+
 
 </Project>
