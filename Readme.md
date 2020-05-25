@@ -15,7 +15,11 @@ dotnet run -p ./Api2/Api2.csproj
 dotnet run -p ./ReverseProxy/ReverseProxy.csproj
 ```
 
-
 # Application Url
 - http://localhost:5020/api1/WeatherForecast
 - http://localhost:5020/api2/WeatherForecast
+
+
+# Reference
+- https://github.com/dotnet/tye
+- https://github.com/microsoft/reverse-proxy
