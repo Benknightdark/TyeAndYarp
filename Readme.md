@@ -7,6 +7,7 @@ dotnet tool install --global Microsoft.Tye --version 0.2.0-alpha.20258.3
 ```
 tye run
 ```
+or
 
 # Using dotnet   Cli to Exec All Projects 
 ```
